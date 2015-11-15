@@ -1,2 +1,21 @@
-# Calculator-Contacts
-Task 2
+# Task 2
+
+## 1. 计算器
+
+要求：
+- 在Console中输入计算命令即可
+- 能进行简单地四则运算
+- 可以循环进行计算
+
+
+## 2. 通讯录
+
+要求：
+- 通讯录的字段至少包括姓名、QQ、地址、邮箱等，可增加更多
+- 可以实现CURD功能(Create, Update, Read, Delete)
+- 输出列表时要求按照姓名排序
+- 实现数据的存储与读取
+- 在Console中实现即可
+
+
+Deadline：本周日18:30之前。请Fork本仓库然后通过PR提交。
